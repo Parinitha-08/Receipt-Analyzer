@@ -29,12 +29,12 @@ A Python desktop application that automatically extracts and categorizes informa
 For example, if you have a screenshot named `gui_screenshot.png` in your repo, you can display it like this:
 
 ![GUI Screenshot]
+
 <img width="1269" height="933" alt="Screenshot 2025-10-03 195524" src="https://github.com/user-attachments/assets/f5c2edc3-ba4f-4a3d-9738-cc7e74f1cc91" />
 
 
-You can add multiple screenshots:
-
 ![CSV Export]
+
 <img width="421" height="203" alt="Screenshot 2025-10-03 195619" src="https://github.com/user-attachments/assets/6ea8c86e-a6e8-4bc8-97c6-151fdfce6265" />
 
 
